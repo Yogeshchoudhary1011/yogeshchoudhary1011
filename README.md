@@ -18,7 +18,14 @@ I am learning Data Analytics and improving my skills through practical projects.
 - Data Visualization
 
 ## 📂 Projects
-- Data Analysis Projects — Coming Soon!
+## 📁 Projects
+
+### 📊 Amazon Reviews Sentiment Analysis
+- Analyzed Amazon customer reviews using Python.
+- Performed Exploratory Data Analysis (EDA).
+- Used data visualization to understand review patterns.
+- **Tools:** Python, Pandas, Matplotlib, Jupyter Notebook
+- [View Project](https://github.com/Yogeshchoudhary1011/codealpha-task)
 
 ## 🎯 Career Goal
 To become a skilled Data Analyst and turn data into meaningful insights.
