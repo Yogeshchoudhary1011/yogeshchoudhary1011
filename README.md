@@ -1,15 +1,19 @@
 # Hi, I'm Yogesh Choudhary 👋
 
 ### Aspiring Data Analyst 📊
+-Aspiring Data Analyst
+-Learning Python, SQL, and Excel
+-Interested in Data cleaning and Data Visualization
+-building real-world data analysis projects
 
 Welcome to my GitHub Portfolio!
 
 I am learning Data Analytics and improving my skills through practical projects.
 
 ## 🛠️ Skills
-- Python
+- Python (pandas, NumPy, Matplotlib
 - SQL
-- Excel
+- Microsoft Excel
 - Data Analysis
 - Data Visualization
 
