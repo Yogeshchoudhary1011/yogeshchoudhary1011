@@ -17,7 +17,7 @@ I am learning Data Analytics and improving my skills through practical projects.
 - Data Analysis
 - Data Visualization
 
-## 📂 Projects
+
 ## 📁 Projects
 
 ### 📊 Amazon Reviews Sentiment Analysis
