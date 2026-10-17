@@ -26,6 +26,10 @@ I am learning Data Analytics and improving my skills through practical projects.
 - Used data visualization to understand review patterns.
 - **Tools:** Python, Pandas, Matplotlib, Jupyter Notebook
 - [View Project](https://github.com/Yogeshchoudhary1011/codealpha-task)
+  ###📈 2. CodeAlpha Project
+- Completed a project as part of CodeAlpha.
+- *Tools:* Python, Pandas, Data Analysis
+- [View Project](https://github.com/Yogeshchoudhary1011/codealpha)
 
 ## 🎯 Career Goal
 To become a skilled Data Analyst and turn data into meaningful insights.
